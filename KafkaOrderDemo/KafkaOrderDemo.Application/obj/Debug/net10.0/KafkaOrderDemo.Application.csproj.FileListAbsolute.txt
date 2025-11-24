@@ -1,0 +1,16 @@
+D:\Projects\Resume\KafkaOrderDemo\KafkaOrderDemo.Application\bin\Debug\net10.0\KafkaOrderDemo.Application.deps.json
+D:\Projects\Resume\KafkaOrderDemo\KafkaOrderDemo.Application\bin\Debug\net10.0\KafkaOrderDemo.Application.dll
+D:\Projects\Resume\KafkaOrderDemo\KafkaOrderDemo.Application\bin\Debug\net10.0\KafkaOrderDemo.Application.pdb
+D:\Projects\Resume\KafkaOrderDemo\KafkaOrderDemo.Application\bin\Debug\net10.0\KafkaOrderDemo.Domain.dll
+D:\Projects\Resume\KafkaOrderDemo\KafkaOrderDemo.Application\bin\Debug\net10.0\KafkaOrderDemo.Domain.pdb
+D:\Projects\Resume\KafkaOrderDemo\KafkaOrderDemo.Application\obj\Debug\net10.0\KafkaOrderDemo.Application.csproj.AssemblyReference.cache
+D:\Projects\Resume\KafkaOrderDemo\KafkaOrderDemo.Application\obj\Debug\net10.0\KafkaOrderDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Resume\KafkaOrderDemo\KafkaOrderDemo.Application\obj\Debug\net10.0\KafkaOrderDemo.Application.AssemblyInfoInputs.cache
+D:\Projects\Resume\KafkaOrderDemo\KafkaOrderDemo.Application\obj\Debug\net10.0\KafkaOrderDemo.Application.AssemblyInfo.cs
+D:\Projects\Resume\KafkaOrderDemo\KafkaOrderDemo.Application\obj\Debug\net10.0\KafkaOrderDemo.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Resume\KafkaOrderDemo\KafkaOrderDemo.Application\obj\Debug\net10.0\KafkaOrderDemo.Application.sourcelink.json
+D:\Projects\Resume\KafkaOrderDemo\KafkaOrderDemo.Application\obj\Debug\net10.0\KafkaOrd.E63D7C62.Up2Date
+D:\Projects\Resume\KafkaOrderDemo\KafkaOrderDemo.Application\obj\Debug\net10.0\KafkaOrderDemo.Application.dll
+D:\Projects\Resume\KafkaOrderDemo\KafkaOrderDemo.Application\obj\Debug\net10.0\refint\KafkaOrderDemo.Application.dll
+D:\Projects\Resume\KafkaOrderDemo\KafkaOrderDemo.Application\obj\Debug\net10.0\KafkaOrderDemo.Application.pdb
+D:\Projects\Resume\KafkaOrderDemo\KafkaOrderDemo.Application\obj\Debug\net10.0\ref\KafkaOrderDemo.Application.dll

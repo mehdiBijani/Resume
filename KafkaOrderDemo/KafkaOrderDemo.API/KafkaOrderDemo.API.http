@@ -1,0 +1,6 @@
+@KafkaOrderDemo.API_HostAddress = http://localhost:5054
+
+GET {{KafkaOrderDemo.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
