@@ -1,0 +1,12 @@
+D:\Projects\Resume\AuroraSolution\Aurora.Domain\bin\Debug\net8.0\Aurora.Domain.deps.json
+D:\Projects\Resume\AuroraSolution\Aurora.Domain\bin\Debug\net8.0\Aurora.Domain.dll
+D:\Projects\Resume\AuroraSolution\Aurora.Domain\bin\Debug\net8.0\Aurora.Domain.pdb
+D:\Projects\Resume\AuroraSolution\Aurora.Domain\obj\Debug\net8.0\Aurora.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Resume\AuroraSolution\Aurora.Domain\obj\Debug\net8.0\Aurora.Domain.AssemblyInfoInputs.cache
+D:\Projects\Resume\AuroraSolution\Aurora.Domain\obj\Debug\net8.0\Aurora.Domain.AssemblyInfo.cs
+D:\Projects\Resume\AuroraSolution\Aurora.Domain\obj\Debug\net8.0\Aurora.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Resume\AuroraSolution\Aurora.Domain\obj\Debug\net8.0\Aurora.Domain.sourcelink.json
+D:\Projects\Resume\AuroraSolution\Aurora.Domain\obj\Debug\net8.0\Aurora.Domain.dll
+D:\Projects\Resume\AuroraSolution\Aurora.Domain\obj\Debug\net8.0\refint\Aurora.Domain.dll
+D:\Projects\Resume\AuroraSolution\Aurora.Domain\obj\Debug\net8.0\Aurora.Domain.pdb
+D:\Projects\Resume\AuroraSolution\Aurora.Domain\obj\Debug\net8.0\ref\Aurora.Domain.dll
